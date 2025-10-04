@@ -31,7 +31,7 @@ let desc = `
 
 > *SOBIA MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴏʙɪᴀ ʙᴜᴛᴛ* 
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Yᴏᴜʀ Vᴏʀᴛᴇx 🖤* 
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
@@ -84,7 +84,7 @@ let desc = `
 
 > *SOBIA-MD WHATSAPP BOT* 
 
-> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴏʙɪᴀ ʙᴜᴛᴛ*
+> *© ᴄʀᴇᴀᴛᴇᴅ ʙʏ Yᴏᴜʀ Vᴏʀᴛᴇx 🖤*
 `
 
 await conn.sendMessage(from,{image:{url: data.thumbnail},caption:desc},{quoted:mek});
