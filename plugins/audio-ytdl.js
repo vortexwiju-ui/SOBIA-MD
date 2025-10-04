@@ -1,7 +1,7 @@
 /*
 
-Plugin Author: *@awaisxd*
-Follow Us: *AWAISXD*
+Plugin Author: *YOUR VORTEX*
+Follow Us: *VORTEX*
 
 */
 
